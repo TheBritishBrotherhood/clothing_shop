@@ -29,12 +29,12 @@
 
 ### 1. Clone the repository
 ``` bash
-$ git clone https://github.com/xchopin/FiveM-Clothes.git
+$ git clone https://github.com/TheBritishBrotherhood/clothing_shop.git
 ```
 
 ### 2. Import the SQL file into your DBMS
 ``` bash
-$ mysql> ./install.sql # or ./ugly_install.sql if you get in trouble with foreign keys
+$ mysql> ./install.sql # or ./clothing_shop_SQL.sql if you get in trouble with foreign keys
 ```
 
 
